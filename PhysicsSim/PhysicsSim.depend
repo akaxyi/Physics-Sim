@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777651647 source:c:\users\carso\onedrive\documents\scientific computing\projects\physicssim\main.c
+	<chipmunk/chipmunk.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
